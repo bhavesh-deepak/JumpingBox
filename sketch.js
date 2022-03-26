@@ -1,4 +1,4 @@
-var canvas,box1,box2,box3,box4,ball;
+var canvas,box1,box2,box3,box4,ball,box5;
 var music;
 
 
@@ -19,7 +19,8 @@ function setup(){
     box3.shapeColor = "blue";
     box4 = createSprite(770,550,200,40);
     box4.shapeColour = "yellow";
-
+    box5 = createSprite(140,650,200,40);
+    box5.shapeColor = "green";
 
 
     //create box sprite and give velocity
