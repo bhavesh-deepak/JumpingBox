@@ -19,7 +19,7 @@ function setup(){
     box3.shapeColor = "blue";
     box4 = createSprite(770,550,200,40);
     box4.shapeColour = "yellow";
-    box5 = createSprite(140,650,200,40);
+    box5 = createSprite(140,450,200,40);
     box5.shapeColor = "green";
 
 
